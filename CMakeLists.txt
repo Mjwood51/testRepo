@@ -1,1 +1,2 @@
 #CMakeLists file
+PROJECT(HelloWorld)
